@@ -1,5 +1,14 @@
-## Hi there 👋
+# About Me
 
+Hi! I’m Kevin Canto, a software engineer, developer, and student passionate about programming and continuous learning. My technical foundation includes basics of programming, C, and Java.
+
+I’m currently working on two project ideas:
+
+SmartMeal – A Python-based AI software to manage finances and create meal plans tailored to budget constraints.
+Custom Package Installer – A C terminal tool for installing and managing packages, featuring custom commands for overwriting package archives in remote locations (similar to winget, but with my own twist).
+Beyond coding, I enjoy playing guitar, solving puzzles, learning new things, and playing basketball.
+
+Let’s connect: LinkedIn
 <!--
 **kevin-canto/kevin-canto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
