@@ -1,14 +1,47 @@
-# About Me
+# 👋 Hi, I'm Kevin Canto
 
-Hi! I’m Kevin Canto, a software engineer, developer, and student passionate about programming and continuous learning. My technical foundation includes basics of programming, C, and Java.
+> 🚀 Software Engineer & Continuous Learner | Passionate about building effective solutions and growing every day.
 
-I’m currently working on two project ideas:
+---
 
-SmartMeal – A Python-based AI software to manage finances and create meal plans tailored to budget constraints.
-Custom Package Installer – A C terminal tool for installing and managing packages, featuring custom commands for overwriting package archives in remote locations (similar to winget, but with my own twist).
-Beyond coding, I enjoy playing guitar, solving puzzles, learning new things, and playing basketball.
+## 🧑‍💻 **About Me**
+- 🎸 Guitarist | 🧩 Puzzle Solver | 🏀 Basketball Fan
+- 💻 Currently exploring **Python**, **C**, and **Java**
+- 📚 Always learning something new!
 
-Let’s connect: LinkedIn
+---
+
+## 📊 **Skills & Tools**
+
+```mermaid
+graph TD
+  A[Programming Languages] -->|💻| B[C]
+  A -->|☕| C[Java]
+  A -->|🐍| D[Python]
+  E[Tools] -->|🔧| F[Linux]
+  E -->|🖥️| G[Git]
+  E -->|⚙️| H[VSCode]
+```
+
+---
+
+## 📈 **Projects**
+
+| Project                | Description                                                                                                               | Tech Stack           | Status      |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------|----------------------|-------------|
+| **SmartMeal**          | Python-based AI for meal planning & finance management, tailored to budget constraints.                                   | Python, AI           | 🛠️ In Progress |
+| **Custom Package Installer** | C terminal tool for installing & managing packages, with custom commands for remote archives (like `winget`, but custom). | C, Linux, Shell      | 🛠️ In Progress |
+
+---
+
+## 📝 **Contact**
+
+- [LinkedIn](https://www.linkedin.com/in/kevin-canto)  
+- 📫 *Feel free to reach out for collaboration or just to say hi!*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 <!--
 **kevin-canto/kevin-canto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
