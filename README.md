@@ -36,7 +36,7 @@ graph TD
 
 ## 📝 **Contact**
 
-- [LinkedIn](www.linkedin.com/in/kevincanto)  
+- [LinkedIn](https://www.linkedin.com/in/kevincanto)  
 - 📫 *Feel free to reach out for collaboration or just to say hi!*
 
 ---
